@@ -1,7 +1,7 @@
 +++
 title = "index"
 insert_anchor_links = "right"
-template = "docs/index.html"
+template = "index.html"
 +++
 
 ## An easy way to create a document library for your project
