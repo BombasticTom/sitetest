@@ -13,7 +13,7 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 
-theme = "easydocs"
+theme = "easydocstheme"
 
 render_emoji = true
 
